@@ -1,0 +1,2 @@
+# firstjscode
+First Javascript learning
